@@ -2,7 +2,7 @@
 
 *Aspiring IT/Cybersecurity Professional — Omni Lead @ Dick's Sporting Goods*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile/)
+
 [![Security+](https://img.shields.io/badge/CompTIA_Security+-In_Progress-FFA500?style=flat-square)](https://www.comptia.org/certifications/security)
 
 ---
