@@ -1,4 +1,4 @@
-# Kyle [Last Name]
+# Kyle Budd
 
 *Aspiring IT/Cybersecurity Professional — Omni Lead @ Dick's Sporting Goods*
 
@@ -52,4 +52,4 @@
 
 ---
 
-[Connect on LinkedIn](https://linkedin.com/in/yourprofile/)
+
