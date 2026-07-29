@@ -2,7 +2,7 @@
 
 *Aspiring IT/Cybersecurity Professional — Omni Lead @ Dick's Sporting Goods*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kyle_budd-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-budd-7b8130424/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyle_Budd-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-budd-7b8130424/)
 [![Security+](https://img.shields.io/badge/CompTIA_Security+-In_Progress-FFA500?style=flat-square)](https://www.comptia.org/certifications/security)
 
 ---
@@ -35,10 +35,9 @@
 
 | Project | Notes | Stack |
 | --- | --- | --- |
-| **Python Trading Bot (ORB Strategy)** | Automated Opening Range Breakout paper-trading bot built against a brokerage API | Python · Webull OpenAPI |
 | **AI YouTube Automation Agent** | Multi-agent Python pipeline: trend research, scripting, voiceover, video assembly, thumbnail generation, upload, analytics | Python · FFmpeg · ElevenLabs · DALL·E 3 · YouTube API |
 
-> **Focus area:** Independent projects demonstrating Python scripting, API
+> **Focus area:** Independent project demonstrating Python scripting, API
 > integration, and automation of multi-step workflows — skills that carry
 > directly into IT automation and security tooling.
 
