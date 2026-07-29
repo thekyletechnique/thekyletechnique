@@ -1,8 +1,8 @@
-# Kyle Budd
+# Kyle [Last Name]
 
 *Aspiring IT/Cybersecurity Professional — Omni Lead @ Dick's Sporting Goods*
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-budd-7b8130424/)
 [![Security+](https://img.shields.io/badge/CompTIA_Security+-In_Progress-FFA500?style=flat-square)](https://www.comptia.org/certifications/security)
 
 ---
@@ -21,7 +21,7 @@
 
 | Project | Notes | Stack | Status |
 | --- | --- | --- | --- |
-| **Active Directory Domain Setup** (`homelab.local`) | Built a DC (Windows Server 2022) and joined a Windows 11 client to the domain | VMware Workstation · Windows Server 2022 · AD DS | ![In Progress](https://img.shields.io/badge/status-in_progress-yellow?style=flat-square) |
+| [**Active Directory Domain Setup**](https://github.com/thekyletechnique/Active-Directory-Lab) | Built a DC (Windows Server 2022) and joined a Windows 11 client to the domain | VMware Workstation · Windows Server 2022 · AD DS | ![Complete](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square) |
 | **osTicket Help Desk Deployment** | Deployed a ticketing system on Ubuntu Server as a help desk simulation | Ubuntu Server 24.04 · osTicket | ![In Progress](https://img.shields.io/badge/status-in_progress-yellow?style=flat-square) |
 | **osTicket ↔ Active Directory (LDAP) Integration** | Integrating ticketing auth with AD via LDAP; troubleshooting network/firewall connectivity between hosts | AD · LDAP · Windows Firewall | ![In Progress](https://img.shields.io/badge/status-in_progress-yellow?style=flat-square) |
 
@@ -52,4 +52,4 @@
 
 ---
 
-
+[Connect on LinkedIn](https://www.linkedin.com/in/kyle-budd-7b8130424/)
