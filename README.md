@@ -1,8 +1,8 @@
-# Kyle [Last Name]
+# Kyle Budd
 
 *Aspiring IT/Cybersecurity Professional — Omni Lead @ Dick's Sporting Goods*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kyle-budd-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-budd-7b8130424/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-budd-7b8130424/)
 [![Security+](https://img.shields.io/badge/CompTIA_Security+-In_Progress-FFA500?style=flat-square)](https://www.comptia.org/certifications/security)
 
 ---
