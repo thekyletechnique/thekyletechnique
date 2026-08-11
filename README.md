@@ -20,15 +20,13 @@
 ## Home Lab — Active Directory & Help Desk Infrastructure
 
 | Project | Notes | Stack | Status |
-| --- | --- | --- | --- |
-| [**Active Directory Domain Setup**](https://github.com/thekyletechnique/Active-Directory-Lab) | Built a DC (Windows Server 2022) and joined a Windows 11 client to the domain | VMware Workstation · Windows Server 2022 · AD DS | ![Complete](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square) |
-| **osTicket Help Desk Deployment** | Deployed a ticketing system on Ubuntu Server as a help desk simulation | Ubuntu Server 24.04 · osTicket | ![In Progress](https://img.shields.io/badge/status-in_progress-yellow?style=flat-square) |
-| **osTicket ↔ Active Directory (LDAP) Integration** | Integrating ticketing auth with AD via LDAP; troubleshooting network/firewall connectivity between hosts | AD · LDAP · Windows Firewall | ![In Progress](https://img.shields.io/badge/status-in_progress-yellow?style=flat-square) |
+|---|---|---|---|
+| **[Active Directory Domain Setup](https://github.com/thekyletechnique/Active-Directory-Lab)** | Built a DC (Windows Server 2022) and joined a Windows 11 client to the domain. [Watch the full video walkthrough](https://youtu.be/NP7iOtvjuz0). | VMware Workstation · Windows Server 2022 · AD DS | `complete` |
+| **osTicket Help Desk Deployment** | Deployed a ticketing system on Ubuntu Server as a help desk simulation | Ubuntu Server 24.04 · osTicket | `complete` |
+| **osTicket ↔ Active Directory (LDAP) Integration** | Integrated ticketing auth with AD via LDAP; resolved network/firewall connectivity between hosts | AD · LDAP · Windows Firewall | `complete` |
+| **SIEM Deployment** | Deploying a SIEM to monitor and alert on domain activity across the lab | TBD | `in progress` |
 
-> **Focus area:** Simulating a small business IT environment end-to-end — domain
-> services, client management, and a real help desk ticketing flow — to build
-> practical troubleshooting and sysadmin experience.
-
+> **Focus area:** Simulating a small business IT environment end-to-end — domain services, client management, and a real help desk ticketing flow — to build practical troubleshooting and sysadmin experience.
 ---
 
 ## Scripting & Automation Projects
